@@ -4,11 +4,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+
 $comtrol-border-width : 3px;
 
 html, body {
-    height: 100%;
+    height: 100vh;
     background-image: url(./img.jpg);
-    background-size: 70%;
+    background-size: 90%;
+    //background-color: lightcoral;
+    color: black;
+    font-size: 5vh;
 }
 
